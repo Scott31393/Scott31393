@@ -1,4 +1,4 @@
-![Hey there, I'm Tommaso. I'm a Linux/Android (AOSP) Embedded Engineer, an embedded system enthusiast.](https://github.com/Scott31393/Scott31393/blob/master/biotom.png)
+![Hey there, I'm Tommaso. I'm a Linux/Android (AOSP) Embedded Engineer, an embedded system enthusiast.](https://github.com/Scott31393/Scott31393/blob/master/tom-button.png)
 
 <!--
 **CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
