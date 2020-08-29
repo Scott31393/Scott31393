@@ -1,6 +1,6 @@
 ![Hey there, I'm Tommaso. I'm a Linux/Android (AOSP) Embedded Engineer, an embedded system enthusiast.](https://github.com/Scott31393/Scott31393/blob/master/tom-button.png)
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://https://www.linkedin.com/in/tommaso-merciai-60b892139/) ● [G​M​A​I​L​](merciaitommaso@gmail.com) -->
+<!-- [LINKEDIN](https://https://www.linkedin.com/in/tommaso-merciai-60b892139/) ● [GMAIL](merciaitommaso@gmail.com) -->
 
 <!--
 
