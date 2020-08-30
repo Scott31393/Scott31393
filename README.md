@@ -3,10 +3,6 @@
 <!-- [LINKEDIN](https://https://www.linkedin.com/in/tommaso-merciai-60b892139/) ● [GMAIL](merciaitommaso@gmail.com) -->
 
 <!--
-
-<!--
-**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
